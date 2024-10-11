@@ -2770,7 +2770,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #212529;
-  background-color: #ff7a57;
+  background-color: #f957ff;
   border-color: #f957ff;
 }
 
@@ -5376,7 +5376,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #ff7a57;
+  color: #f957ff;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -7139,7 +7139,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #ff7a57 !important;
+  background-color: #f957ff !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -8952,6 +8952,7 @@ button.bg-dark:focus {
 .mb-4,
 .my-4 {
   margin-bottom: 1.5rem !important;
+  text-align: center;
 }
 
 .ml-4,
@@ -11022,8 +11023,8 @@ pre {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  border: 2px solid #ff7a57;
-  color: #ff7a57;
+  border: 2px solid #a629dae6;
+  color: #a629dae6;
   text-align: center;
   line-height: 40px;
   -webkit-transition: all 0.3s;
@@ -11032,7 +11033,7 @@ pre {
 }
 
 .socials .social-item:hover {
-  background: #ff7a57;
+  background: #a629dae6;
   color: #fff;
 }
 
@@ -11077,7 +11078,7 @@ pre {
 }
 
 .img-wrapper .overlay {
-  background: rgba(255, 122, 87, 0.7);
+  background: #7b186e94;
   position: absolute;
   left: 0;
   bottom: 100%;
@@ -11368,7 +11369,7 @@ pre {
 }
 
 .navbar .navbar-nav .nav-link.active {
-  color: #ff7a57;
+  color: #f957ff;
 }
 
 .navbar .navbar-nav .btn {
@@ -11390,6 +11391,7 @@ pre {
   border-radius: 0.2rem;
   height: 3px;
   margin-bottom: 30px;
+  
 }
 
 .progress .progress-bar {
@@ -11416,7 +11418,7 @@ pre {
   width: 13px;
   height: 13px;
   border-radius: 50%;
-  background: #ff7a57;
+  background: #ced4dab8;
   box-shadow: 0 0 10px rgba(255, 122, 87, 0.5);
 }
 
